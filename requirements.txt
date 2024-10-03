@@ -1,0 +1,11 @@
+streamlit
+pickle-mixin
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+scikit-learn
+joblib
+imbalanced-learn
+mysql-connector-python
